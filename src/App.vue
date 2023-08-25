@@ -1,5 +1,9 @@
 <template>
+<<<<<<< HEAD
   <router-view/>
+=======
+  <router-view />
+>>>>>>> thai-lang
 </template>
 
 <script>
